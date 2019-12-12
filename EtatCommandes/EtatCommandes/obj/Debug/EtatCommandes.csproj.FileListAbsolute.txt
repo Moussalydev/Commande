@@ -1,0 +1,13 @@
+C:\Users\moctar\Desktop\MASTER2GLSI\Cours_C#\projet\EtatCommandes\EtatCommandes\bin\Debug\EtatCommandes.exe.config
+C:\Users\moctar\Desktop\MASTER2GLSI\Cours_C#\projet\EtatCommandes\EtatCommandes\bin\Debug\EtatCommandes.exe
+C:\Users\moctar\Desktop\MASTER2GLSI\Cours_C#\projet\EtatCommandes\EtatCommandes\bin\Debug\EtatCommandes.pdb
+C:\Users\moctar\Desktop\MASTER2GLSI\Cours_C#\projet\EtatCommandes\EtatCommandes\obj\Debug\EtatCommandes.csprojResolveAssemblyReference.cache
+C:\Users\moctar\Desktop\MASTER2GLSI\Cours_C#\projet\EtatCommandes\EtatCommandes\obj\Debug\EtatCommandes.exe
+C:\Users\moctar\Desktop\MASTER2GLSI\Cours_C#\projet\EtatCommandes\EtatCommandes\obj\Debug\EtatCommandes.pdb
+C:\Users\moctar\Desktop\MASTER2GLSI\Cours_C#\projet\EtatCommandes\EtatCommandes\bin\Debug\MySql.Data.dll
+C:\Users\lyaissata\Documents\Visual Studio 2015\Projects\bdd\EtatCommandes\EtatCommandes\bin\Debug\EtatCommandes.exe.config
+C:\Users\lyaissata\Documents\Visual Studio 2015\Projects\bdd\EtatCommandes\EtatCommandes\obj\Debug\EtatCommandes.exe
+C:\Users\lyaissata\Documents\Visual Studio 2015\Projects\bdd\EtatCommandes\EtatCommandes\obj\Debug\EtatCommandes.pdb
+C:\Users\lyaissata\Documents\Visual Studio 2015\Projects\bdd\EtatCommandes\EtatCommandes\bin\Debug\EtatCommandes.exe
+C:\Users\lyaissata\Documents\Visual Studio 2015\Projects\bdd\EtatCommandes\EtatCommandes\bin\Debug\EtatCommandes.pdb
+C:\Users\lyaissata\Documents\Visual Studio 2015\Projects\bdd\EtatCommandes\EtatCommandes\obj\Debug\EtatCommandes.csprojResolveAssemblyReference.cache
